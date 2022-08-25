@@ -1,0 +1,4 @@
+1. Check out why xml allplan files does not work
+2. Compare files with Impact xml files
+3. Reapir allplan xml files
+4. Write a script that automatically repairs allplan xml files
