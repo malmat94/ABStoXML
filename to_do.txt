@@ -1,4 +1,8 @@
-1. Check out why xml allplan files does not work
-2. Compare files with Impact xml files
-3. Reapir allplan xml files
-4. Write a script that automatically repairs allplan xml files
+1. Create program that convert allplan abs file to impact like xml file:
+ - merge generated verions of position (e.g. 10.1 10.2) 
+ - rewrite abs position information to impact xml template
+ - generate 2 files:
+  + 1. xml file
+  + 2. txt file with information about global steel mass, and steel mass of every diameter of bar
+2. Window in tk inter
+3. Authenticator
